@@ -1,1 +1,1 @@
-# Bu araç çalıştırıldığı cihazdaki Chrome şifrelerini çekerek bir sqlite dosyası halinde belirtilen mail adresine gönderir. SADECE EĞİTİM AMAÇLI HAZIRLANMIŞTIR. İllegal hadiseler için kullanmak kullanıcının sorumluluğundadır. 
+### Bu araç çalıştırıldığı cihazdaki Chrome şifrelerini çekerek bir sqlite dosyası halinde belirtilen mail adresine gönderir. SADECE EĞİTİM AMAÇLI HAZIRLANMIŞTIR. İllegal hadiseler için kullanmak kullanıcının sorumluluğundadır. 
